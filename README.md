@@ -6,7 +6,5 @@
 ### Selección con números.
 ### Selección con tecla espaciadora cuando hay múltiples opciones 
 
-# Esta aplicación está hecha con ```
-NodejS
-```
+# Esta aplicación está hecha con *** NODEJS ***
 
