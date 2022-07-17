@@ -8,3 +8,10 @@
 
 # Esta aplicación está hecha con <em>NodeJs</em>
 
+
+##Ejecución
+
+´´´
+node app.js
+´´´
+
